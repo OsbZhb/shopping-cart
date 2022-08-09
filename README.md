@@ -37,10 +37,3 @@ Start the server
 ```bash
   npm start
 ```
-
-## Screenshot
-
-The main and only page of this product
-
-![App Screenshot](https://i.ibb.co/jf9V45y/2022-08-08-10-46-32.png)
-
